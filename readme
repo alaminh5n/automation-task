@@ -1,0 +1,5 @@
+Python version 3.6
+Pytest 6.2.4
+Pytest-html 3.1.1
+Selenium 3.141.0
+ChromeDriver 90.0.4430.24
